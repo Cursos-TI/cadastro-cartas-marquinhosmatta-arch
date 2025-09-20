@@ -76,6 +76,6 @@ No nível Mestre, você implementará comparações entre as cartas, utilizando 
 Ao concluir todos os níveis, você terá criado um sistema incial para o jogo Super Trunfo, com funcionalidades de cadastro, cálculo e comparação de propriedades. 
 
 Boa sorte e divirta-se programando!
-que comece os jogos
+que comece os jogos parte 2
 
 Equipe de Ensino - MateCheck
